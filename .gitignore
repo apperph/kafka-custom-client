@@ -1,0 +1,3 @@
+*.dmg
+*.tgz
+etc/kafka-plugins/*
